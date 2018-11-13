@@ -1,6 +1,6 @@
 ---
-<<<<<<< HEAD
-=======
+
+
 # Bad ansible! This playbook is an example of poor/bad practices!
 # Bad practices may include:
 #
@@ -14,7 +14,6 @@
 #   Roles - what are roles?
 #   Bare variables
 #   No use of handlers
->>>>>>> ce7d0329f388e118fdf4115740f6968234c51f52
 
 - name: configuration
   hosts: all
